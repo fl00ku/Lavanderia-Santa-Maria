@@ -1,0 +1,6 @@
+{
+  "name": "Lavanderia Santa Maria",
+  "description": "Lavanderia delivery em São Bernardo do Campo há 7 anos. Lavagem de edredons, ternos, camisas sociais, cortinas, tênis e roupas em geral com coleta e entrega.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
